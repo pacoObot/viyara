@@ -1,0 +1,7 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Viyara Premium",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
